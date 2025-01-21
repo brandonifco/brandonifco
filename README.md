@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a **freelance developer** and **senior systems
 ## 🌟 **Recent Projects**
 ### 🖥️ **Dynamic Appointment Scheduler**
 A web application built for a small business to schedule appointments online, integrate API calls for seamless data processing, and showcase services.  
-🔗 **[[Website2.0]](https://github.com/brandonifco/website2.0)(#)** | 💡 **Tech Stack**: PHP, JavaScript, RESTful APIs, WordPress
+🔗 **[Website2.0](https://github.com/brandonifco/website2.0)** | 💡 **Tech Stack**: PHP, JavaScript, RESTful APIs, WordPress
 
 ### 🚀 **API Debugging & Optimization**
 Enhanced the performance of a client's WordPress site by debugging API calls, improving response times, and ensuring reliability.  
