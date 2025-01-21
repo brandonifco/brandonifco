@@ -42,7 +42,7 @@ I approach every project with the mindset of a problem solver. By combining my e
 ---
 
 ## 📫 **Let’s Connect**
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
+- **Email**: [Brandonifco@gmail.com](mailto:brandonifco@gmail.com)  
 - **LinkedIn**: [Your LinkedIn Profile](#)  
 - **Portfolio**: [Your Website](#)  
 
