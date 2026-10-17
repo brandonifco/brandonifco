@@ -44,9 +44,14 @@ A source document is not executable code, and a generated contract is not proof 
 | [**FAA Part 107**](https://github.com/brandonifco/faa-part-107) | Applies the architecture to a defined scope of U.S. small-drone regulations, with traceable regulatory citations. |
 | [**Hoyle Backgammon**](https://github.com/brandonifco/hoyle-backgammon) | Implements a deterministic game engine grounded in a public-domain 1909 rulebook. |
 | [**SRD 5.2.1 Combat**](https://github.com/brandonifco/srd-52-combat) | Implements mapped portions of tabletop combat rules, with explicit source references and reproducible random outcomes. |
-| [**The Hollow Crown**](https://github.com/brandonifco/hollow-crown) | An independent, browser-based action-adventure project combining gameplay systems, procedural generation, art, and audio. |
 
 These repositories show the same engineering approach across different domains—not a claim that all rules, edge cases, or possible applications have been completed.
+
+## Independent game development
+
+[**The Hollow Crown**](https://github.com/brandonifco/hollow-crown) is a standalone, browser-based action-adventure game built with JavaScript, HTML5 Canvas, and Web Audio. It brings together game design, interactive systems, procedural generation, pixel art, and original audio in a playable experience.
+
+It is separate from the Rules Factory architecture. I include it as an example of end-to-end game development and product execution, not as an application of the rules-engine ecosystem.
 
 ## Current areas of development
 
