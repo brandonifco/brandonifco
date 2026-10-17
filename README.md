@@ -4,7 +4,7 @@
 
 I build software that can explain where its answers came from.
 
-My current focus is a reusable foundation for turning complex written rules—regulations, rulebooks, and other authoritative material—into deterministic, testable software. The goal is not just to produce an answer, but to preserve the chain from the source, through interpretation and implementation, to the behavior a user can verify.
+My current focus is a reusable foundation for turning complex written rules - regulations, rule-books, and other authoritative material - into deterministic, testable software. The goal is not just to produce an answer, but to preserve the chain from the source, through interpretation and implementation, to the behavior a user can verify.
 
 My background spans enterprise IT, systems administration, application development, and automation. That experience shapes how I approach software: clear boundaries, reproducible builds, useful tests, and systems designed to be operated and maintained.
 
